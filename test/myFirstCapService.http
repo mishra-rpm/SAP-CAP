@@ -1,0 +1,4 @@
+@baseUrl =http://localhost:4004/odata/v4
+
+
+get {{baseUrl}}/my-first-cap/sayHello(name='World')
